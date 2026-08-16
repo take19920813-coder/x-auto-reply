@@ -186,7 +186,7 @@ def run_stream():
             )
 
             send_telegram(message)
-send_telegram("✅ Telegram通知テスト")
+send_
 while True:
     try:
         run_stream()
