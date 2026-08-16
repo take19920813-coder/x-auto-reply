@@ -186,7 +186,7 @@ def run_stream():
             )
 
             send_telegram(message)
-send_
+
 while True:
     try:
         run_stream()
